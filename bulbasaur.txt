@@ -1,2 +1,4 @@
 Move: Tackle
 Move: Growl
+Move: Vine Whip
+Move: Solarbeam
