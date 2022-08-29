@@ -1,0 +1,2 @@
+Move: Bubble
+Move: Tail Whip
